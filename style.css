@@ -7,32 +7,32 @@ header {
   border-bottom: 1px solid #cccccc;
 }
 
- nav {
-   float: right;
- }
+header nav {
+  float: right;
+}
 
-nav ul {
-  padding:0px;
-  margin:40px 0px 0px 0px;
+header nav ul {
+  padding: 0px
+  margin: 40px 0px 0px 0px;
 }
 
 nav ul li {
-  display:inline;
-  margin-right:10px;
+  display: inline;
+  margin-right: 10px;
 }
 
 nav a {
-  text-decoration:none;
-  color:#007bff;
+  text-decoration: none;
+  color: #007bff;
   font-size: 18px;
 }
 
 header h3 {
-  float:left;
+  float: left;
   font-size: 30px;
 }
 
-header h3 a{
+header h3 a {
   text-decoration: none;
   color: #868e96;
 }
